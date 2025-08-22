@@ -1,19 +1,16 @@
-<h1 align="center">Olá, eu sou [Seu Nome] 👋</h1>
-<h3 align="center">Desenvolvedor Back-End | Estudante de Ciência da Computação</h3>
+<h1 align="center">Olá, meu nome é matheus 👋</h1>
+<h3 align="center">Desenvolvedor Fullstack | Estudante de Sistemas da Informação | Tecnólogo em Cybersegurança</h3>
 
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/[seu_linkedin]" target="_blank">
+  <a href="https://linkedin.com/in/matheusreyrodriguez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/[seu_github]" target="_blank">
+  <a href="https://github.com/mattxss2" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://twitter.com/[seu_twitter]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:[seu_email]">
+  <a href="mailto:matheusreyrodriguezyoliveira@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -22,7 +19,7 @@
 
 <h2 align="center">Sobre mim</h2>
 <p align="center">
-  [Escreva um parágrafo curto e interessante sobre você. Fale sobre seus interesses, o que te motiva ou o que você busca na área de tecnologia. Por exemplo: "Sou um apaixonado por tecnologia e desenvolvimento de software, com foco em criar soluções eficientes e escaláveis. Atualmente, estou focado em aprimorar minhas habilidades em..."].
+  Atualmente sou Dev Freelancer, com dominio em linguagens como: Java, Javascript, Python, Html e CSS. Tambem possuo certo dominio em Banco de Dados, sendo ele o MySQL. Sempre gosto de novos desafios e busco me aprimorar, tenho interesse em diversas areas da tecnologia, incluindo programação de arduinos, configurações de sistemas operacionais (Linux e Windows), e otimizações de programas baseados em x64.
 </p>
 
 ---
